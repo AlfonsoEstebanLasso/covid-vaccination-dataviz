@@ -11,7 +11,7 @@
 
 Coursework project — BSc in Applied Data Science, Universitat Oberta de Catalunya (UOC), Data Visualization course.
 
-> Notebook narrative is in Spanish.
+> Notebook narrative translated to English from the original Spanish; printed outputs and figure labels are shown as originally executed (in Spanish).
 
 ## Objective
 
@@ -91,7 +91,7 @@ The `figures/` folder contains the 11 exported interactive charts (file names ar
 
 ```
 covid-vaccination-dataviz/
-├── PRI_Visualizacion_datos.ipynb   # Full analysis notebook (narrative in Spanish)
+├── PRI_Visualizacion_datos.ipynb   # Full analysis notebook (narrative in English)
 ├── figures/                        # 11 interactive Plotly charts exported as standalone HTML
 ├── requirements.txt
 └── README.md
